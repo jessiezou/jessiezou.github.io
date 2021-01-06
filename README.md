@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Jessie Zou's User Page
 
-You can use the [editor on GitHub](https://github.com/jessiezou/jessiezou.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Python taught me love.
 
-### Markdown
+## Java taught me patience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## C taught me pain.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![My Dog, Maya](https://i.imgur.com/lK3FXpN.jpg)
 
-- Bulleted
-- List
+### This is my dog, Maya. I love her.
 
-1. Numbered
-2. List
+[My Personal Website, jessiezou.me](https://jessiezou.me)
 
-**Bold** and _Italic_ and `Code` text
+1. **This**
+2. *Is*
+3. ~~A~~
+4. List
 
-[Link](url) and ![Image](src)
+### This is a tutorial on how to make a branch called shrek.
+```
+git branch shrek
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> This is a quote
 
-### Jekyll Themes
+- [ ] Get an A in CSE 110
+- [ ] Yeet
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jessiezou/jessiezou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
