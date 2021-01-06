@@ -27,4 +27,5 @@ git branch shrek
 > This is a quote
 
 - [ ] Get an A in CSE 110
+- [ ] Yeet
 
