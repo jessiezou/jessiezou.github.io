@@ -24,6 +24,8 @@
 git branch shrek
 ```
 
+[Takes you to my config.yml file](/_config.yml)
+
 > This is a quote
 
 - [ ] Get an A in CSE 110
